@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Jtmej/AndroidStudioProjects/BudgetTracker/app/src/main/res/layout/activity_add_transaction.xml" value="0.5" />
         <entry key="..\:/Users/Jtmej/AndroidStudioProjects/BudgetTracker/app/src/main/res/layout/activity_main.xml" value="0.49320652173913043" />
         <entry key="..\:/Users/Jtmej/AndroidStudioProjects/BudgetTracker/app/src/main/res/layout/transaction_layout.xml" value="0.5335144927536232" />
       </map>
